@@ -1,0 +1,29 @@
+
+
+.header {
+    color: #fff;
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+select {
+    width: 180px;
+    height: 30px;
+    background-color: rgba(225, 225, 225, 0);
+    color: #fff;
+    border: 0;
+    font-size: 18px;
+    outline: none;
+    border-bottom: 1px solid  rgb(110, 244, 248);
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+option {
+    color: #000;
+    
+}
+
+ul {
+    padding: 0;
+}

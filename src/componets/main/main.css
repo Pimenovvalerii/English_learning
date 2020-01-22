@@ -1,0 +1,90 @@
+.main {
+    padding: 10px;
+    min-width: 300px;
+    box-sizing: border-box;
+}
+
+.wrap-main {
+    min-width: 280px;
+    min-height: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.result {
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: red;
+    font-size: 18px;
+    max-width: 200px;
+}
+
+.word {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    color: rgb(110, 244, 248);
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.help button {
+    margin-right: 40px;
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 25px;
+    background-color: rgb(110, 244, 248);
+    border : none;
+    outline: none;
+}
+.help span {
+    color: red;
+    opacity: .8;
+    font-size: 24px;
+}
+
+.word ul {
+    list-style: none;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    width: 250px;
+    height: 40px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(255,255,255,0);
+    border: none;
+    border-bottom: 2px solid rgb(110, 244, 248);
+    outline: none;
+    color: #fff;
+    font-size: 20px;
+}
+
+.input::placeholder {
+    font-size: 20px;
+    color: #fff;
+}
+
+.btn {
+    width: 140px;
+    height: 60px;
+    margin: 0 auto;
+    border-radius: 25px;
+    font-size: 20px;
+    color: #000;
+    background-color: rgb(110, 244, 248);
+}
+
