@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/English_learning/static/css/main.9ff33d97.chunk.css",
-    "main.js": "/English_learning/static/js/main.471d9e4f.chunk.js",
-    "main.js.map": "/English_learning/static/js/main.471d9e4f.chunk.js.map",
+    "main.css": "/English_learning/static/css/main.097dd2e6.chunk.css",
+    "main.js": "/English_learning/static/js/main.b9d0a089.chunk.js",
+    "main.js.map": "/English_learning/static/js/main.b9d0a089.chunk.js.map",
     "runtime-main.js": "/English_learning/static/js/runtime-main.e7c05f9f.js",
     "runtime-main.js.map": "/English_learning/static/js/runtime-main.e7c05f9f.js.map",
     "static/js/2.7015441a.chunk.js": "/English_learning/static/js/2.7015441a.chunk.js",
     "static/js/2.7015441a.chunk.js.map": "/English_learning/static/js/2.7015441a.chunk.js.map",
     "index.html": "/English_learning/index.html",
-    "precache-manifest.2aba7a72d86b8d8653aa50575dfaf5fb.js": "/English_learning/precache-manifest.2aba7a72d86b8d8653aa50575dfaf5fb.js",
+    "precache-manifest.331e0697f97cb81e7012edc80af4a802.js": "/English_learning/precache-manifest.331e0697f97cb81e7012edc80af4a802.js",
     "service-worker.js": "/English_learning/service-worker.js",
-    "static/css/main.9ff33d97.chunk.css.map": "/English_learning/static/css/main.9ff33d97.chunk.css.map",
+    "static/css/main.097dd2e6.chunk.css.map": "/English_learning/static/css/main.097dd2e6.chunk.css.map",
     "static/js/2.7015441a.chunk.js.LICENSE": "/English_learning/static/js/2.7015441a.chunk.js.LICENSE",
     "static/media/App.css": "/English_learning/static/media/словарь.3131ad45.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e7c05f9f.js",
     "static/js/2.7015441a.chunk.js",
-    "static/css/main.9ff33d97.chunk.css",
-    "static/js/main.471d9e4f.chunk.js"
+    "static/css/main.097dd2e6.chunk.css",
+    "static/js/main.b9d0a089.chunk.js"
   ]
 }
